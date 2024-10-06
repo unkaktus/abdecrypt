@@ -6,7 +6,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nogoegst/abdecrypt"
+	"github.com/unkaktus/abdecrypt"
 )
 
 func main() {
